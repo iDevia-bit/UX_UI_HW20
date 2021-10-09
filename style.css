@@ -1,0 +1,42 @@
+.navbar-nav{
+    position: absolute;
+    width: auto 0px;
+    height: 64px;
+    left: 50px;
+    top: 50px;
+    margin: initial;
+  }
+  
+  .logo{
+    align-self: flex-end;
+  }
+  
+  header {
+    background-color: white;
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    color: black;
+    justify-content: space-around;
+    align-items: flex-start;
+  }
+  nav{
+    display:flex;
+  }
+
+  footer {
+    background-color: white;
+    padding: 5px;
+    color: black;
+    }
+    
+    footer ul {
+    list-style: none;
+    padding-left: 5px;
+    float: right;
+    }
+    
+    footer li {
+    display: inline-block;
+    padding: 10px 10px;
+    }
